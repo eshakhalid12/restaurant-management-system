@@ -1,0 +1,12 @@
+Customer Name: esha
+Table Number: 123
+Order Summary:
+Garlic bread  PKR 200/-
+Total Bill: PKR 200/-
+--------------------------------------
+Customer Name: muzzi
+Table Number: 6
+Order Summary:
+Garlic bread  PKR 200/-Hot wings  PKR 500/-
+Total Bill: PKR 700/-
+--------------------------------------
